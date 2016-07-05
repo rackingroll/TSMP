@@ -18,6 +18,7 @@ int main()
     cout << "Hello world!" << endl;
     cout << measure->DTW(A,B,4) << endl ;
 
+    cout << "Just test!" << endl ;
     delete A ;
     delete B ;
     return 0;
